@@ -1,0 +1,23 @@
+CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV-13咪咕,http://go.bkpcp.top/mg/cctv13
+CCTV13,http://kkk.888.3116598.xyz/api.php?n=tttt&id=cfGBkp&tk=FgM0vQMejxvG
+cctv-13,http://kkk.888.3116598.xyz/api.php?n=tttt&id=oloZ0N&tk=FgM0vQMejxvG
+CCTV-13,http://kkk.888.3116598.xyz/api.php?n=tttt&id=8D6cm9&tk=FgM0vQMejxvG
+[SD]cctv13,https://t.freetv.fun/live/cctv13.m3u8
+[HD]cctv13,https://t.freetv.fun/live/cctv13-4.m3u8
+[BD]cctv13,https://t.freetv.fun/live/cctv13-12.m3u8
+[BD]cctv13,https://t.freetv.fun/live/cctv13-21.m3u8
+[HD]cctv-13 新闻[geo-blocked],https://t.freetv.fun/live/cctv-13-xin-wen.m3u8
+[BD]cctv-13 新闻,https://t.freetv.fun/live/cctv-13-xin-wen-1.php
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV13,http://101.35.240.114:88/live.php?id=CCTV13
+CCTV-13高清,http://119.131.24.84:9003/udp/239.77.0.188:5146
+CCTV-13高清,http://119.131.24.84:9003/udp/239.253.43.196:5146
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-13,http://cjcrcb.top:65500/udp/238.125.0.189:5140
+CCTV-13新闻,http://207.56.13.146:81/cdnlive/cctv13.m3u8
+CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+CCTV13,http://tvbox6.icu/tv/migu.php?id=cctv13$咪咕直播
+CCTV-13咪咕,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV-13咪咕,http://goo.bkpcp.top/mg/cctv13
