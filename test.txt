@@ -26,3 +26,4 @@
 岭南戏曲,http://222.217.230.192:8181/tsfile/live/1035_1.m3u8
 岭南戏曲,http://113.64.146.6:2024/hls/47/index.m3u8
 岭南戏曲,http://113.109.250.108:9999/udp/239.77.0.16:5146$广东汕头
+岭南戏曲,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/15
