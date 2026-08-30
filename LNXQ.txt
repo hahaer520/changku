@@ -31,10 +31,11 @@
 岭南戏曲,http://198.204.228.26/live/gdlnxq.m3u8
 岭南戏曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdlnxq
 岭南戏曲,http://113.109.250.108:9999/udp/239.77.0.16:5146$汕头
-广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-广东岭南戏曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdlnxq
+岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+岭南戏曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdlnxq
+岭南戏曲,http://113.109.250.108:9999/udp/239.77.0.16:5146$广东汕头,
+岭南戏曲,http://www.3344.uk:8888/rtp/239.77.0.16:5146$IPV4•线路8
 岭南戏曲,http://113.109.250.108:9999/udp/239.77.0.16:5146$广东汕头
+岭南戏曲,http://222.217.230.195:8181/tsfile/live/1035_1.m3u8,
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
-岭南戏曲,http://198.204.228.26/live/gdlnxq.m3u8
-岭南戏曲,http://107.150.60.122/live/gdlnxq.m3u8
-岭南戏曲,http://192.151.150.154/live/gdlnxq.m3u8
+,
